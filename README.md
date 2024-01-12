@@ -63,7 +63,9 @@ npm install
 
 4. Clonar el archivo `.env.template` y renombrarlo a `.env` y agregar los valores de las variables de entorno.
 
-5. ejecutar el comando:
+5. Se deberá clonar el siguiente repositorio y repetir los mismos pasos[Genetic Diseases backend](https://github.com/Samuel33d/genetic-diseases)
+
+6. ejecutar el comando:
 
 ```
 npm run start:dev
